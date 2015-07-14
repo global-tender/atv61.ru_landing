@@ -1,0 +1,46 @@
+.banner {
+	height: 89vh !important;
+}
+
+.banner-grids {
+	margin-top: 0px !important;
+	position: absolute;
+	top: 20px;
+	background: rgba(0,0,0,.5);
+	left: 0;
+	right: 0;
+}
+
+.banner-grid {
+	padding-top: 15px !important;
+	padding-bottom: 15px !important;
+}
+
+.banner-info {
+	background: rgba(0,0,0,.5);
+}
+
+.home-icon {
+	max-height: 22px;
+	margin-top: -5px;
+}
+
+.banner-info h1 {
+	font-family: Lobster !important;
+	letter-spacing: 4px;
+}
+
+.banner-info {
+	padding-top: 7px;
+	padding-bottom: 7px;
+}
+
+.nav-city-mention {
+	width: 20%;
+	font-size: 20px;
+	color: #fff;
+	opacity: 0.9;
+	text-align: center;
+	border-bottom-left-radius: 30px;
+	border-bottom-right-radius: 30px;
+}
