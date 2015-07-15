@@ -18,6 +18,7 @@
 	<link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
 	<link rel="shortcut icon" href="favicon.ico">
 	<!--fonts-->
+		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Sansita+One' rel="stylesheet" type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel="stylesheet" type='text/css'>
@@ -55,31 +56,25 @@
 		<div class="banner-info">
 			<h1>Альтернатива</h1>
 			<p>Бухгалтерские и юридические услуги</p>
-			<!-- <div class="view"><a href="#">View Portfolio</a></div> -->
 		</div>
 		<div class="banner-grids">
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-left">
-					<ul>
-						<li><label> </label></li>
-						<li>Have a question? Call us now<span>+62 146 212 84</span> </li>
+					<div><i class="fa fa-home fa-2x"></i></div>
+					<div>пр. Буденовский 26/57 оф. 14</div>
 					</ul>
 				</div>
 			</div>
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-middle">
-					<ul>
-						<li><label> </label></li>
-						<li>We are open Mon-Fri<span>Mon - Fri 08:00 - 17:00</span> </li>
-					</ul>
+					<div><i class="fa fa-phone fa-2x"></i></div>
+					<div>+7 (863) 269-46-14<br />+7 (928) 130-12-60<br />+7 (909) 429-24-32</div>
 				</div>
 			</div>
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-right">
-					<ul>
-						<li><label> </label></li>
-						<li>Need support? Drop us an email<span><a href="mail-to:sample@example.com">Support@yoursite.com</a></span></li>
-					</ul>
+					<div><i class="fa fa fa-envelope-o fa-2x"></i></div>
+					<div><a href="mailto:alternativa50@mail.ru">alternativa50@mail.ru</a></div>
 				</div>
 			</div>
 			<div class="clearfix"></div>

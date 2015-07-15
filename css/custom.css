@@ -12,8 +12,22 @@
 }
 
 .banner-grid {
-	padding-top: 15px !important;
+/*	padding-top: 15px !important;
 	padding-bottom: 15px !important;
+	text-align: left;*/
+}
+
+.banner-middle {
+	height: 90px;
+	padding-top: 10px;
+}
+
+.banner-left {
+	padding-top: 22px;
+}
+
+.banner-right {
+	padding-top: 22px;
 }
 
 .banner-info {
@@ -44,3 +58,4 @@
 	border-bottom-left-radius: 30px;
 	border-bottom-right-radius: 30px;
 }
+
