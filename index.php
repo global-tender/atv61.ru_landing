@@ -3,7 +3,7 @@
 <head>
 
 <?php
-	$bg = array('back-min.jpg', 'back1-min.jpg');
+	$bg = array('back-min.jpg'/*, 'back1-min.jpg'*/);
 	$ibg = rand(0, count($bg)-1);
 	$selectedBg = "$bg[$ibg]";
 ?>
@@ -23,6 +23,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Sansita+One' rel="stylesheet" type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Ubuntu' rel="stylesheet" type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Lobster' rel="stylesheet" type='text/css'>
+		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700&subset=latin,cyrillic-ext,cyrillic,latin-ext' rel='stylesheet' type='text/css'>
 	<!--//fonts-->
 		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 	<!-- for-mobile-apps -->
@@ -60,21 +61,21 @@
 		<div class="banner-grids">
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-left">
-					<div><i class="fa fa-home fa-2x"></i></div>
-					<div>пр. Буденовский 26/57 оф. 14</div>
+					<div class="top-contact-info-icon"><i class="fa fa-home fa-2x"></i></div>
+					<div class="top-contact-info-text top-text-left">пр. Буденовский 26/57 оф. 14</div>
 					</ul>
 				</div>
 			</div>
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-middle">
-					<div><i class="fa fa-phone fa-2x"></i></div>
-					<div>+7 (863) 269-46-14<br />+7 (928) 130-12-60<br />+7 (909) 429-24-32</div>
+					<div class="top-contact-info-icon"><i class="fa fa-phone fa-2x"></i></div>
+					<div class="top-contact-info-text top-text-middle">+7 (863) 269-46-14<br />+7 (928) 130-12-60<br />+7 (909) 429-24-32</div>
 				</div>
 			</div>
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-right">
-					<div><i class="fa fa fa-envelope-o fa-2x"></i></div>
-					<div><a href="mailto:alternativa50@mail.ru">alternativa50@mail.ru</a></div>
+					<div class="top-contact-info-icon"><i class="fa fa fa-envelope-o fa-2x"></i></div>
+					<div class="top-contact-info-text top-text-right"><a href="mailto:alternativa50@mail.ru" title="Напишите нам">alternativa50@mail.ru</a></div>
 				</div>
 			</div>
 			<div class="clearfix"></div>
