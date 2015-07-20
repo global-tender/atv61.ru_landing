@@ -218,7 +218,7 @@ display: block;
 /*-- //effect --*/
 /*-- our-services --*/
 .our-services {
-	padding:110px 0;
+	padding:85px 0;
 	}
 .our-info h2{
 	margin:0;
@@ -1685,7 +1685,7 @@ ul.social-slide li i.mac{
 	height: 32px;
 	border: none;
 	text-indent: 100%;
-	background: url("../images/arr.png") no-repeat 0px 0px;
+	background: url("../images/arr-top.png") no-repeat 0px 0px;
 }
 #toTopHover {
 	width: 32px;

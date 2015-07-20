@@ -108,15 +108,12 @@
 }
 
 #toTop {
-	border: 2px solid #fff;
-	border-radius: 20px;
-	width: 36px;
-	height: 35px;
+	height: 40px;
 }
 
 .cnt-text {
 	background: rgba(0,0,0,.6);
-	border-radius: 25px;
+	border-radius: 10px;
 	padding: 2px;
 	height: 92px;
 }
@@ -193,3 +190,103 @@ label.x:after {
 	line-height: 16px;
 	text-align: center;
 }
+
+.bottle {
+	height: 30px;
+}
+
+.our-grid-right h3 {
+	color: #666 !important;
+	font-size: 17px !important;
+	padding-top: 4%;
+}
+
+.bottom-grid p {
+	background: rgba(0,0,0,.6);
+	color: #fff;
+	height: 60px;
+	padding: 5px;
+	display: table-cell;
+	vertical-align: middle;
+	min-width: 255px;
+	border-radius: 10px;
+}
+
+.bottom-grid h2 {
+	font-family: 'PT Sans', serif;
+}
+
+.our-grids {
+	margin-top: -30px;
+}
+
+.basic-plan h3 {
+	height: 140px;
+	padding-left: 10px;
+	padding-right: 10px;
+	background: rgba(0,0,0,.6);
+	font-family: 'PT Sans', serif !important;
+}
+
+.basic-plan p {
+	font-family: 'PT Sans', serif !important;
+}
+
+.started a {
+	font-size: 13px;
+	font-family: sans-serif;
+	padding: 15px 64px;
+}
+
+.team-grid-image {
+	height: 255px;
+	width: 255px;
+	border: 1px solid #fff;
+}
+
+.team-grid-feedback {
+	min-height: 150px;
+}
+
+/* jcarousel */
+
+.feedback-container {
+	width: 75%;
+	margin: 0 auto;
+}
+
+.feedback-carousel {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+}
+
+.team-grids {
+	width: 20000em;
+	position: relative;
+}
+
+.team-grid {
+	max-width: 285px;
+}
+
+.jcarousel-control-prev {
+	position: absolute;
+	right: 85%;
+	margin-top: 17%;
+}
+
+.jcarousel-control-next {
+	position: absolute;
+	left: 85%;
+	margin-top: 17%;
+}
+
+.jcarousel-control-next img{
+	-webkit-transform: rotate(180deg);
+	-moz-transform: rotate(180deg);
+	-o-transform: rotate(180deg);
+	-ms-transform: rotate(180deg);
+	transform: rotate(180deg);
+}
+/* end jcarousel */
