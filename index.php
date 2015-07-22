@@ -9,7 +9,7 @@
 ?>
 	<style>
 		.banner {
-			background:url("../images/<?=$selectedBg?>") no-repeat 0px 0px !important;
+			background:url("../images/<?=$selectedBg?>") center center / cover !important;
 		}
 	</style>
 
@@ -506,7 +506,7 @@
 
 			<form name="feedback_form" id="feedback_form">
 				<input name="atv_name" type="text" placeholder="Ваше имя" required>
-				<input name="atv_email" type="text" placeholder="Ваш E-Mail" required>
+				<input name="atv_email" type="email" placeholder="Ваш E-Mail" required>
 				<input name="atv_phone" type="text" placeholder="Номер телефона" required class="atv_phone" title="Номер телефона">
 				<textarea name="atv_message" placeholder="Ваше сообщение" required></textarea>
 				<input type="submit" name="submit_message" value="Отправить сообщение">
@@ -651,10 +651,10 @@
 				});
 
 			$('.jcarousel-control-prev').hover(function(){
-				$('.jcarousel-control-prev').animate({"margin-right":"7px"}, 'fast');
+				$('.jcarousel-control-prev').animate({"margin-left":"-107px"}, 'fast');
 			},
 			function(){
-				$('.jcarousel-control-prev').animate({"margin-right":"0px"}, 'fast');
+				$('.jcarousel-control-prev').animate({"margin-left":"-100px"}, 'fast');
 			});
 
 			$('.jcarousel-control-next').hover(function(){

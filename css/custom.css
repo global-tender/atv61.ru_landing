@@ -63,32 +63,28 @@
 .banner-middle {
 	color: #fff;
 	height: 90px;
-	padding-left: 25px;
 }
 
 .top-contact-info-icon {
-	float: left;
-	position: absolute;
-	margin-left: 12%;
-	margin-top: 7%;
+	display: inline-block;
+	vertical-align: middle;
+	padding-right: 15px;
+	line-height: 90px;
 }
 
 .top-contact-info-text {
-	float: left;
-	position: absolute;
-	margin-left: 22%;
+	display: inline-block;
+	vertical-align: middle;
+	margin-top: -10px;
 }
 
 .top-text-left {
-	margin-top: 8%;
 }
 
 .top-text-middle {
-	margin-top: 3%;
 }
 
 .top-text-right {
-	margin-top: 8%;
 }
 
 .footer {
@@ -142,7 +138,7 @@
 	position: absolute;
 	z-index: 1001;
 	margin-top: 120px;
-	left: 33%;
+	margin-left: 356px;
 	width: 400px;
 	min-height: 50px;
 	padding: 12px 10px 10px 10px;
@@ -272,14 +268,14 @@ label.x:after {
 
 .jcarousel-control-prev {
 	position: absolute;
-	right: 85%;
-	margin-top: 17%;
+	margin-left: -100px;
+	margin-top: 230px;
 }
 
 .jcarousel-control-next {
 	position: absolute;
-	left: 85%;
-	margin-top: 17%;
+	padding-left: 900px;
+	margin-top: 230px;
 }
 
 .jcarousel-control-next img{
@@ -290,3 +286,26 @@ label.x:after {
 	transform: rotate(180deg);
 }
 /* end jcarousel */
+
+.contact-grid {
+	padding-right: 35px !important;
+ 	padding-left: 0px !important;
+}
+
+.contact-info input[type=submit] {
+	margin: 27px 0 0 424px !important;
+}
+
+.contact-info input[type="email"] {
+	width: 31%;
+	color: #c9c9c9;
+	margin: 0 23px 23px 0;
+	padding: 12px 10px;
+	outline: none;
+	border: 1px solid #e8e8e8;
+	border-radius: 5px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	-ms-border-radius: 5px;
+}
