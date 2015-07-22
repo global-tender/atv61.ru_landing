@@ -312,32 +312,56 @@ label.x:after {
 
 .icon_1 {
 	background: url("../images/icons/001.png") no-repeat;
+	max-width: 64px;
+	min-width: 60px;
+	min-height: 72px;
 }
 
 .icon_2 {
 	background: url("../images/icons/002.png") no-repeat;
+	max-width: 64px;
+	min-width: 60px;
+	min-height: 72px;
 }
 
 .icon_3 {
 	background: url("../images/icons/003.png") no-repeat;
+	max-width: 64px;
+	min-width: 60px;
+	min-height: 72px;
 }
 
 .icon_4 {
 	background: url("../images/icons/004.png") no-repeat;
+	max-width: 64px;
+	min-width: 60px;
+	min-height: 72px;
 }
 
 .icon_5 {
 	background: url("../images/icons/005.png") no-repeat;
+	max-width: 64px;
+	min-width: 60px;
+	min-height: 72px;
 }
 
 .icon_6 {
 	background: url("../images/icons/006.png") no-repeat;
+	max-width: 64px;
+	min-width: 60px;
+	min-height: 72px;
 }
 
 .icon_7 {
 	background: url("../images/icons/007.png") no-repeat;
+	max-width: 64px;
+	min-width: 60px;
+	min-height: 72px;
 }
 
 .icon_8 {
 	background: url("../images/icons/008.png") no-repeat;
+	max-width: 64px;
+	min-width: 60px;
+	min-height: 72px;
 }
