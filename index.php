@@ -160,7 +160,7 @@
 		<div class="our-grids">
 			<div class="col-md-6 our-grid">
 				<div class="col-md-3 our-grid-left">
-					<div class="brand-image"></div>
+					<div class="brand-image icon_1"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
 					<h3>18 лет опыта</h3>
@@ -170,7 +170,7 @@
 			</div>
 			<div class="col-md-6 our-grid">
 				<div class="col-md-3 our-grid-left">
-					<div class="bulb-image"></div>
+					<div class="bulb-image icon_2"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
 					<h3>Без затрат на бух.
@@ -181,7 +181,7 @@
 			</div>
 			<div class="col-md-6 our-grid">
 				<div class="col-md-3 our-grid-left">
-					<div class="graphic-image"></div>
+					<div class="graphic-image icon_6"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
 					<h3>Гарантированная 
@@ -193,7 +193,7 @@
 			</div>
 			<div class="col-md-6 our-grid">
 				<div class="col-md-3 our-grid-left">
-					<div class="mobile-image"></div>
+					<div class="mobile-image icon_7"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
 					<h3>Фиксированный
@@ -203,7 +203,7 @@
 			</div>
 			<div class="col-md-6 our-grid">
 				<div class="col-md-3 our-grid-left">
-					<div class="illustration-image"></div>
+					<div class="illustration-image icon_4"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
 					<h3>Мы не уходим в
@@ -213,12 +213,30 @@
 			</div>
 			<div class="col-md-6 our-grid">
 				<div class="col-md-3 our-grid-left">
-					<div class="video-image"></div>
+					<div class="video-image icon_5"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
 					<h3>Без затрат на
 					организацию рабочего
 					места</h3>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="col-md-6 our-grid">
+				<div class="col-md-3 our-grid-left">
+					<div class="video-image icon_3"></div>
+				</div>
+				<div class="col-md-9 our-grid-right">
+					<h3>Описание преимущества</h3>
+				</div>
+				<div class="clearfix"></div>
+			</div>
+			<div class="col-md-6 our-grid">
+				<div class="col-md-3 our-grid-left">
+					<div class="video-image icon_8"></div>
+				</div>
+				<div class="col-md-9 our-grid-right">
+					<h3>Описание преимущества</h3>
 				</div>
 				<div class="clearfix"></div>
 			</div>

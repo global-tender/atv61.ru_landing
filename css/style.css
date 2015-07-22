@@ -238,42 +238,42 @@ span.highlight{
 	color:#669933;
 	}
 .brand-image{
-	background: url("../images/image-sprite1.png") no-repeat -55px 5px;
+	/*background: url("../images/image-sprite1.png") no-repeat -55px 5px;*/
 	width: 80px;
 	height: 70px;
 	margin: 0 auto;
 	display:block;
 	}
 .bulb-image{
-	background: url("../images/image-sprite1.png") no-repeat -134px 0px;
+	/*background: url("../images/image-sprite1.png") no-repeat -134px 0px;*/
 	width: 50px;
 	height: 70px;
 	margin: 0 auto;
 	display: block;
 	}
 .graphic-image{
-	background: url("../images/image-sprite1.png") no-repeat -183px 0px;
+	/*background: url("../images/image-sprite1.png") no-repeat -183px 0px;*/
 	width: 72px;
 	height: 65px;
 	margin: 0 auto;
 	display: block;
 	}
 .mobile-image{
-	background: url("../images/image-sprite1.png") no-repeat -252px 0px;
+	/*background: url("../images/image-sprite1.png") no-repeat -252px 0px;*/
 	width: 65px;
 	height: 72px;
 	margin: 0 auto;
 	display: block;
 	}
 .illustration-image{
-	background: url("../images/image-sprite1.png") no-repeat -319px 0px;
+	/*background: url("../images/image-sprite1.png") no-repeat -319px 0px;*/
 	width: 77px;
 	height: 72px;
 	margin: 0 auto;
 	display: block;
 	}
 .video-image{
-	background: url("../images/image-sprite1.png") no-repeat -396px 0px;
+	/*background: url("../images/image-sprite1.png") no-repeat -396px 0px;*/
 	width: 73px;
 	height: 72px;
 	margin: 0 auto;
