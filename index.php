@@ -278,6 +278,193 @@
 
 
 <!-- pricing-table -->
+<div id="service_1" class="popup_services">
+
+	<h3 class="services_head">Название услуги 1</h3>
+
+	<h4>от <b>1 000</b> руб.</h4>
+
+	<ul class="services_list_includes">
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+	</ul>
+	 <div class="closePopupServ"><label class="x"></label></div>
+</div>
+
+<div id="service_2" class="popup_services">
+
+	<h3 class="services_head">Название услуги 2</h3>
+
+	<h4>от <b>1 000</b> руб.</h4>
+
+	<ul class="services_list_includes">
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+	</ul>
+	 <div class="closePopupServ"><label class="x"></label></div>
+</div>
+
+<div id="service_3" class="popup_services">
+
+	<h3 class="services_head">Название услуги 3</h3>
+
+	<h4>от <b>1 000</b> руб.</h4>
+
+	<ul class="services_list_includes">
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+	</ul>
+	 <div class="closePopupServ"><label class="x"></label></div>
+</div>
+
+<div id="service_4" class="popup_services">
+
+	<h3 class="services_head">Название услуги 4</h3>
+
+	<h4>от <b>1 000</b> руб.</h4>
+
+	<ul class="services_list_includes">
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+	</ul>
+	 <div class="closePopupServ"><label class="x"></label></div>
+</div>
+
+<div id="service_5" class="popup_services">
+
+	<h3 class="services_head">Название услуги 5</h3>
+
+	<h4>от <b>1 000</b> руб.</h4>
+
+	<ul class="services_list_includes">
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+	</ul>
+	 <div class="closePopupServ"><label class="x"></label></div>
+</div>
+
+<div id="service_6" class="popup_services">
+
+	<h3 class="services_head">Название услуги 6</h3>
+
+	<h4>от <b>1 000</b> руб.</h4>
+
+	<ul class="services_list_includes">
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Включает в себя услугу
+		</li>
+	</ul>
+	 <div class="closePopupServ"><label class="x"></label></div>
+</div>
+
+
 <div id="atv-services" class="pricing-table">
 	<div class="container">
 		<div class="pricing-info text-center">
@@ -298,7 +485,7 @@
 				<ul>
 					<li></li>
 				</ul>
-				<div class="started"><a href="#">Подробнее</a></div>
+				<div class="started"><a href="#" class="service_open" data-id="1">Подробнее</a></div>
 				<div class="para">
 					<p></p>
 				</div>
@@ -312,7 +499,7 @@
 				<ul>
 					<li></li>
 				</ul>
-				<div class="started"><a href="#">Подробнее</a></div>
+				<div class="started"><a href="#" class="service_open" data-id="2">Подробнее</a></div>
 				<div class="para">
 					<p></p>
 				</div>
@@ -327,7 +514,7 @@
 				<ul>
 					<li></li>
 				</ul>
-				<div class="started"><a href="#">Подробнее</a></div>
+				<div class="started"><a href="#" class="service_open" data-id="3">Подробнее</a></div>
 				<div class="para">
 					<p></p>
 				</div>
@@ -346,7 +533,7 @@
 				<ul>
 					<li></li>
 				</ul>
-				<div class="started"><a href="#">Подробнее</a></div>
+				<div class="started"><a href="#" class="service_open" data-id="4">Подробнее</a></div>
 				<div class="para">
 					<p></p>
 				</div>
@@ -360,7 +547,7 @@
 				<ul>
 					<li></li>
 				</ul>
-				<div class="started"><a href="#">Подробнее</a></div>
+				<div class="started"><a href="#" class="service_open" data-id="5">Подробнее</a></div>
 				<div class="para">
 					<p></p>
 				</div>
@@ -374,7 +561,7 @@
 				<ul>
 					<li></li>
 				</ul>
-				<div class="started"><a href="#">Подробнее</a></div>
+				<div class="started"><a href="#" class="service_open" data-id="6">Подробнее</a></div>
 				<div class="para">
 					<p></p>
 				</div>
@@ -574,6 +761,7 @@
 <!-- //smooth scrolling -->
 
 	<div class="overlay"></div>
+	<div class="overlay_services"></div>
 </body>
 </html>
 
@@ -613,14 +801,14 @@
 		});
 
 		$(".overlay").on("click", function() {
-			$(this).hide();
-			$(".message_sent_popup").hide();
+			$(this).fadeOut();
+			$(".message_sent_popup").fadeOut();
 
 			$('#feedback_form').find("input[type=text], textarea").val("");
 		})
 		$(".closePopup").on("click", function() {
-			$(".overlay").hide();
-			$(".message_sent_popup").hide();
+			$(".overlay").fadeOut();
+			$(".message_sent_popup").fadeOut();
 
 			$('#feedback_form').find("input[type=text], textarea").val("");
 		})
@@ -682,6 +870,26 @@
 				$('.jcarousel-control-next').animate({"margin-left":"0px"}, 'fast');
 			});
 		/* end jcarousel */
+
+
+		$(".overlay_services").on("click", function() {
+			$(this).fadeOut();
+			$(".popup_services").fadeOut();
+		});
+		$(".closePopupServ").on("click", function() {
+			$(".overlay_services").fadeOut();
+			$(".popup_services").fadeOut();
+		});
+
+		$(".service_open").on("click", function() {
+			var serv_id = $(this).attr('data-id');
+			div = $('#service_'+serv_id+'');
+
+			div.css({top:$(window).height()/2-div.height()/2,left:$(window).width()/2-div.width()/2});
+			$('.overlay_services').fadeIn();
+			div.fadeIn();
+			return false;
+		});
 
 	});
 
