@@ -70,20 +70,20 @@
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-left">
 					<div class="top-contact-info-icon"><i class="fa fa-home fa-2x"></i></div>
-					<div class="top-contact-info-text top-text-left">пр. Буденовский 26/57 оф. 14</div>
+					<div class="top-contact-info-text top-text-left">пр. Буденновский 26/57 оф. 14<br /><p class="left">344002, г.Ростов-на-Дону</p></div>
 					</ul>
 				</div>
 			</div>
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-middle">
 					<div class="top-contact-info-icon"><i class="fa fa-phone fa-2x"></i></div>
-					<div class="top-contact-info-text top-text-middle">+7 (863) 269-46-14<br />+7 (928) 130-12-60<br />+7 (909) 429-24-32</div>
+					<div class="top-contact-info-text top-text-middle mt-top-min-10">+7 (863) 269-46-14<br />+7 (928) 130-12-60<br />+7 (909) 429-24-32</div>
 				</div>
 			</div>
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-right">
 					<div class="top-contact-info-icon"><i class="fa fa fa-envelope-o fa-2x"></i></div>
-					<div class="top-contact-info-text top-text-right"><a href="mailto:alternativa50@mail.ru" title="Напишите нам">alternativa50@mail.ru</a></div>
+					<div class="top-contact-info-text top-text-right mt-top-min-10"><a href="mailto:alternativa50@mail.ru" title="Напишите нам">alternativa50@mail.ru</a><br /><a class="left" href="mailto:alternativa50@land.ru" title="Напишите нам">alternativa50@land.ru</a></div>
 				</div>
 			</div>
 			<div class="clearfix"></div>
@@ -163,7 +163,7 @@
 					<div class="brand-image icon_1"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
-					<h3>18 лет опыта</h3>
+					<h3>10 лет опыта</h3>
 					<!-- <p>aliquam ipsum ante morbi sed ipsum mollis. Sollicitudin viverra, vel varius eget sit mollis.</p> -->
 				</div>
 				<div class="clearfix"></div>
@@ -222,24 +222,6 @@
 				</div>
 				<div class="clearfix"></div>
 			</div>
-			<div class="col-md-6 our-grid">
-				<div class="col-md-3 our-grid-left">
-					<div class="video-image icon_3"></div>
-				</div>
-				<div class="col-md-9 our-grid-right">
-					<h3>Описание преимущества</h3>
-				</div>
-				<div class="clearfix"></div>
-			</div>
-			<div class="col-md-6 our-grid">
-				<div class="col-md-3 our-grid-left">
-					<div class="video-image icon_8"></div>
-				</div>
-				<div class="col-md-9 our-grid-right">
-					<h3>Описание преимущества</h3>
-				</div>
-				<div class="clearfix"></div>
-			</div>
 			<div class="clearfix"></div>
 		</div>
 	</div>
@@ -257,7 +239,7 @@
 			</div>
 			<div class="col-md-3 bottom-grid text-center">
 				<div class="chat"></div>
-				<h2>150</h2>
+				<h2>60</h2>
 				<p>Компаний уже доверяют ведение бух. учёта нам</p>
 			</div>
 			<div class="col-md-3 bottom-grid text-center">
@@ -280,30 +262,46 @@
 <!-- pricing-table -->
 <div id="service_1" class="popup_services">
 
-	<h3 class="services_head">Название услуги 1</h3>
+	<h3 class="services_head">Комплексное бухгалтерское обслуживание</h3>
 
 	<h4>от <b>1 000</b> руб.</h4>
 
 	<ul class="services_list_includes">
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Ведение бухгалтерского и налогового учета;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Сбор, обработка и формирование первичной документации;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Налоговое планирование;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Составление и сдача деклараций;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Бухгалтерская отчетность;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Полный расчет заработной платы со сдачей персонифицированных данных и отчетности;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Сверка взаиморасчетов с контрагентами;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Обработка, проверка правильности оформления и ввод первичной документации в систему электронного учета и документооборота, предоставление информации об отсутствующих документах.
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Консультирование по составлению налоговых деклараций
 		</li>
 	</ul>
 	 <div class="closePopupServ"><label class="x"></label></div>
@@ -311,30 +309,42 @@
 
 <div id="service_2" class="popup_services">
 
-	<h3 class="services_head">Название услуги 2</h3>
+	<h3 class="services_head">Бухгалтерское сопровождение</h3>
 
-	<h4>от <b>1 000</b> руб.</h4>
+	<h4>от <b>3 000</b> руб.</h4>
 
 	<ul class="services_list_includes">
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Проведение анализа действующих договоров организации с предоставлением заключений и рекомендаций;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Консультации в сфере налогового, гражданского, административного, трудового и иных отраслей права;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Юридическое сопровождение Клиента в ходе проведения переговоров с контрагентами;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Юридическая помощь при составлении локальных актов и внутренних документов организации (приказов, распоряжений и др.), проверка соответствия действующих документов законодательству Российской Федерации;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Составление и редактирование проектов различных видов договоров;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Сопровождение сделок;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Составление заявлений, жалоб и других документов правового характера;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Составление исковых заявлений в суды всех уровней.
 		</li>
 	</ul>
 	 <div class="closePopupServ"><label class="x"></label></div>
@@ -342,30 +352,38 @@
 
 <div id="service_3" class="popup_services">
 
-	<h3 class="services_head">Название услуги 3</h3>
+	<h3 class="services_head">Постановка бухгалтерского учёта</h3>
 
-	<h4>от <b>1 000</b> руб.</h4>
+	<h4>от <b>2 000</b> руб.</h4>
 
 	<ul class="services_list_includes">
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Разработка и планирование системы бухгалтерского документооборота;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Разработка и ведение учетной кадровой политики;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Составление штатного расписания;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Помощь клиенту в выборе системы налогообложения;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Выбор систем проводок для распределения результатов хозяйственных операций по отдельным бухгалтерским счетам;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Составление регламентирующих документов при ведении внутренней документации предприятия;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Внедрение системы бухгалтерского и налогового учета в деятельность предприятия.
 		</li>
 	</ul>
 	 <div class="closePopupServ"><label class="x"></label></div>
@@ -373,30 +391,34 @@
 
 <div id="service_4" class="popup_services">
 
-	<h3 class="services_head">Название услуги 4</h3>
+	<h3 class="services_head">Восстановление бухгалтерского и налогового учёта</h3>
 
-	<h4>от <b>1 000</b> руб.</h4>
+	<h4>от <b>3 000</b> руб.</h4>
 
 	<ul class="services_list_includes">
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Сортировка и обработка первичной документации, ведение и восстановление бухгалтерского учета в специализированной программе;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Анализ первичных документов организации на предмет их соответствия действующему законодательству;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Проверка правильности исчисления налоговых платежей и составление бухгалтерского и налогового учета;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Постановка бухгалтерского учета организации в соответствии с требованиями действующего законодательства Российской Федерации;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Составление, сдача отчетности в налоговые органы, внебюджетные фонды, сдача сведений о доходах физических лиц;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Организация бухгалтерского учета и консультации по его дальнейшему ведению.
 		</li>
 	</ul>
 	 <div class="closePopupServ"><label class="x"></label></div>
@@ -404,30 +426,51 @@
 
 <div id="service_5" class="popup_services">
 
-	<h3 class="services_head">Название услуги 5</h3>
+	<h3 class="services_head">Сопровождение судебных споров</h3>
 
-	<h4>от <b>1 000</b> руб.</h4>
+	<h4>от <b>10 000</b> руб.</h4>
 
 	<ul class="services_list_includes">
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Судебные споры в Арбитражных судах и судах общей юрисдикции;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Подготовка претензии и направления ее Ответчику (при необходимости);
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Составление искового заявления (возражения на исковое заявление) и направление его в суд;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Участие в судебных заседаниях;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Подготовка заявлений, запросов, ходатайств, пояснений, дополнений и предоставление (направление) их в суд;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Получение решения;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Получение исполнительного листа;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Юридическое сопровождение процедуры исполнительного производства;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Обжалование результатов налоговой проверки:
+			<ul class="third-level-list">
+				<li>Правовая экспертиза решения налогового органа;</li>
+				<li>Обжалование решения налогового органа и вышестоящий налоговый орган;</li>
+				<li>Представление интересов клиента при рассмотрении жалобы в вышестоящем налоговом органе или заявления в суде во всех инстанциях.</li>
+			</ul>
 		</li>
 	</ul>
 	 <div class="closePopupServ"><label class="x"></label></div>
@@ -435,30 +478,50 @@
 
 <div id="service_6" class="popup_services">
 
-	<h3 class="services_head">Название услуги 6</h3>
+	<h3 class="services_head">Регистрация ООО или ИП</h3>
 
-	<h4>от <b>1 000</b> руб.</h4>
+	<h4>от <b>2 000</b> руб.</h4>
 
 	<ul class="services_list_includes">
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Подготовка необходимого комплекта документов (Устав или изменения к Уставу), Решение (Протокол);
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Подготовка заявления по форме о создании (внесение изменений);
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Оплата государственной пошлины от имени Заказчика - при создании;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Подача документов в налоговый орган;
 		</li>
 		<li>
 			<span class="sprite_serv">&nbsp;</span>
-			Включает в себя услугу
+			Получение документов из налогового органа;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Получение кодов из Ростовстата (уведомление о присвоении кодов статистики);
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Постановка на учет в фонды (ПФР, ФСС) - при создании и изменении юридического адреса;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Подача заявления о применяемой системы налогообложения (при необходимости) - при создании;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Изготовление печати;
+		</li>
+		<li>
+			<span class="sprite_serv">&nbsp;</span>
+			Открытие расчетного счета.
 		</li>
 	</ul>
 	 <div class="closePopupServ"><label class="x"></label></div>
@@ -494,7 +557,7 @@
 				<div class="basic-plan">
 					<h3>Бухгалтерское
 					сопровождение</h3>
-					<p>от <label>1000</label> &#8399;</p>
+					<p>от <label>3000</label> &#8399;</p>
 				</div>
 				<ul>
 					<li></li>
@@ -509,7 +572,7 @@
 					<h3>Постановка
 					бухгалтерского
 					учёта</h3>
-					<p>от <label>1000</label> &#8399;</p>
+					<p>от <label>2000</label> &#8399;</p>
 				</div>
 				<ul>
 					<li></li>
@@ -528,7 +591,7 @@
 					<h3>Восстановление
 					бухгалтерского и
 					налогового учёта</h3>
-					<p>от <label>1000</label> &#8399;</p>
+					<p>от <label>3000</label> &#8399;</p>
 				</div>
 				<ul>
 					<li></li>
@@ -542,7 +605,7 @@
 				<div class="basic-plan">
 					<h3>Сопровождение
 					судебных споров</h3>
-					<p>от <label>1000</label> &#8399;</p>
+					<p>от <label>10 000</label> &#8399;</p>
 				</div>
 				<ul>
 					<li></li>
@@ -556,7 +619,7 @@
 				<div class="basic-plan">
 					<h3>Регистрация
 					ООО или ИП</h3>
-					<p>от <label>1000</label> &#8399;</p>
+					<p>от <label>2000</label> &#8399;</p>
 				</div>
 				<ul>
 					<li></li>
@@ -670,12 +733,12 @@
 					
 					myPlacemark = new ymaps.Placemark([47.219214, 39.708392], {
 						hintContent: 'Альтернатива',
-						balloonContent: 'Альтернатива: пр. Буденовский 26/57 оф. 14, г Ростов-на-Дону'
+						balloonContent: 'Альтернатива: пр. Буденновский 26/57 оф. 14, г Ростов-на-Дону'
 					}, {
 						preset: 'islands#blueDotIcon'
 					});
 
-					myMap.balloon.open([47.219214, 39.708392], "<div class='mapAdress'>Ростов-на-Дону,<br/>пр. Буденовский 26/57<br/> офис 14</div>", {
+					myMap.balloon.open([47.219214, 39.708392], "<div class='mapAdress'>Ростов-на-Дону,<br/>пр. Буденновский 26/57<br/> офис 14</div>", {
 						closeButton: true
 					});
 					
@@ -693,11 +756,11 @@
 		<div class="contact-grids">
 			<div class="col-md-4 contact-grid text-center">
 				<div class="point-icon"></div>
-				<p class="cnt-text">г. Ростов-на-Дону<br />пр. Буденовский 26/57<br />офис 14<br />Пн - Пт: 9:00 – 17:00</p>
+				<p class="cnt-text">344002&nbsp;&nbsp;г.Ростов-на-Дону<br />пр. Буденновский 26/57<br />офис 14<br />Пн - Пт: 9:00 – 17:00</p>
 			</div>
 			<div class="col-md-4 contact-grid text-center">
 				<div class="mail-icon"></div>
-				<p class="cnt-text cnt-email"><a href="mailto:alternativa50@mail.ru" title="Напишите нам">alternativa50@mail.ru</a></p>
+				<p class="cnt-text cnt-email"><a href="mailto:alternativa50@mail.ru" title="Напишите нам">alternativa50@mail.ru</a><br /><a href="mailto:alternativa50@land.ru" title="Напишите нам">alternativa50@land.ru</a></p>
 			</div>
 			<div class="col-md-4 contact-grid text-center">
 				<div class="phone-icon"></div>
@@ -894,3 +957,33 @@
 	});
 
 </script>
+
+	<!-- Yandex.Metrika counter -->
+	<script type="text/javascript">
+		(function (d, w, c) {
+			(w[c] = w[c] || []).push(function() {
+				try {
+					w.yaCounter31055016 = new Ya.Metrika({
+						id:31055016,
+						clickmap:true,
+						trackLinks:true,
+						accurateTrackBounce:true,
+						webvisor:true
+					});
+				} catch(e) { }
+			});
+
+			var n = d.getElementsByTagName("script")[0],
+				s = d.createElement("script"),
+				f = function () { n.parentNode.insertBefore(s, n); };
+			s.type = "text/javascript";
+			s.async = true;
+			s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+			if (w.opera == "[object Opera]") {
+				d.addEventListener("DOMContentLoaded", f, false);
+			} else { f(); }
+		})(document, window, "yandex_metrika_callbacks");
+	</script>
+	<noscript><div><img src="https://mc.yandex.ru/watch/31055016" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+	<!-- /Yandex.Metrika counter -->

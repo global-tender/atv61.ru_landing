@@ -9,7 +9,7 @@ if (isset($_POST['atv_message']))
 
 	$params = "-fno_reply@atv61.ru";
 
-	mail("ihptru@gmail.com", "Сообщение с сайта atv61.ru", $content, $headers, $params);
+	mail("alternativa50@mail.ru", "Сообщение с сайта atv61.ru", $content, $headers, $params);
 
 	$message_array = array();
 	$message_array['name'] = $_POST['atv_name'];
