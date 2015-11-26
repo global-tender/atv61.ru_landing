@@ -105,7 +105,7 @@
 							<li><a class="scroll" href="#home"><img src="images/home1-min.png" class="home-icon" /></a></li>
 							<li><a class="scroll" href="#we-are-atv">О нас</a></li>
 							<li><a class="scroll" href="#atv-services">Услуги</a></li>
-							<li><a class="scroll" href="#atv-feedbacks">Отзывы</a></li>
+							<!--<li><a class="scroll" href="#atv-feedbacks">Отзывы</a></li>-->
 							<li><a class="scroll" href="#get-in-touch">Контакты</a></li>
 						</ul>
 					</nav>
@@ -635,6 +635,7 @@
 </div>
 <!-- //pricing-table -->
 <!-- our-team -->
+<!--
 <div id="atv-feedbacks" class="our-team">
 	<div class="container">
 		<div class="team-info text-center">
@@ -697,12 +698,12 @@
 							<p class="team-grid-feedback">Текст отзыва</p>
 						</div>
 					</div>
-					<!-- <div class="clearfix"></div> -->
 				</div>
 			</div>
 		</div>
 	</div>
 </div>
+-->
 <!-- //our-team -->
 
 <!-- get-in -->
