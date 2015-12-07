@@ -9,14 +9,14 @@
 ?>
 	<style>
 		.banner {
-			background:url("../images/<?=$selectedBg?>") center center / cover !important;
+			background:url("/images/<?=$selectedBg?>") center center / cover !important;
 		}
 	</style>
 
 	<title>Альтернатива - Бухгалтерские и юридические услуги, Ростов-на-Дону</title>
-	<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-	<link href="css/custom.css" rel="stylesheet" type="text/css" media="all" />
-	<link rel="shortcut icon" href="favicon.ico">
+	<link href="/css/style.css" rel="stylesheet" type="text/css" media="all" />
+	<link href="/css/custom.css" rel="stylesheet" type="text/css" media="all" />
+	<link rel="shortcut icon" href="/favicon.ico">
 	<!--fonts-->
 		<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 		<link href='http://fonts.googleapis.com/css?family=Lato:100,300,400,700,900,100italic,300italic,400italic,700italic,900italic' rel='stylesheet' type='text/css'>
@@ -26,7 +26,7 @@
 		<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,400,300,600,700&subset=latin,cyrillic-ext,cyrillic,latin-ext' rel='stylesheet' type='text/css'>
 		<link href="http://fonts.googleapis.com/css?family=PT+Sans:regular,italic,bold,bolditalic" rel="stylesheet" type="text/css" />
 	<!--//fonts-->
-		<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
 	<!-- for-mobile-apps -->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -35,13 +35,13 @@
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 	<!-- //for-mobile-apps -->
 	<!-- js -->
-		<script type="text/javascript" src="js/jquery.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.min.js"></script>
 	<!-- js -->
 	<!-- start-smoth-scrolling -->
-		<script type="text/javascript" src="js/move-top.js"></script>
-		<script type="text/javascript" src="js/easing.js"></script>
+		<script type="text/javascript" src="/js/move-top.js"></script>
+		<script type="text/javascript" src="/js/easing.js"></script>
 		<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/0.9.0/jquery.mask.min.js"></script>
-		<script type="text/javascript" src="js/jquery.jcarousel.js"></script>
+		<script type="text/javascript" src="/js/jquery.jcarousel.js"></script>
 		<script type="text/javascript">
 			jQuery(document).ready(function($) {
 				$(".scroll").click(function(event){		
