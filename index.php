@@ -707,21 +707,6 @@
 <!-- //our-team -->
 
 
-<!-- google-adsense -->
-<div class="google-adsense-block">
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- atv61.ru -->
-	<ins class="adsbygoogle"
-	     style="display:inline-block;width:728px;height:90px"
-	     data-ad-client="ca-pub-1502331739186135"
-	     data-ad-slot="7071459804"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-</div>
-
-
-
 <!-- get-in -->
 <div id="get-in-touch" class="get-in-touch">
 	<div class="container">
