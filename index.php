@@ -172,7 +172,7 @@
 					<div class="bulb-image icon_2"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
-					<h3>Без затрат на бух.
+					<h3>Без затрат на бухгалтерские
 					программы и справочно-
 					правовые системы</h3>
 				</div>
@@ -233,13 +233,13 @@
 		<div class="bottom-grids">
 			<div class="col-md-3 bottom-grid text-center">
 				<div class="like"></div>
-				<h2>10</h2>
+				<h2>13</h2>
 				<p>Лет опыта</p>
 			</div>
 			<div class="col-md-3 bottom-grid text-center">
 				<div class="chat"></div>
 				<h2>60</h2>
-				<p>Компаний уже доверяют ведение бух. учёта нам</p>
+				<p>Компаний уже доверяют ведение бухгалтерского учёта нам</p>
 			</div>
 			<div class="col-md-3 bottom-grid text-center">
 				<div class="smiley"></div>
