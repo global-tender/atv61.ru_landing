@@ -83,7 +83,7 @@
 			<div class="col-md-4 banner-grid text-center">
 				<div class="banner-right">
 					<div class="top-contact-info-icon"><i class="fa fa fa-envelope-o fa-2x"></i></div>
-					<div class="top-contact-info-text top-text-right mt-top-min-10"><a href="mailto:alternativa50@mail.ru" title="Напишите нам">alternativa50@mail.ru</a><br /><a class="left" href="mailto:alternativa50@land.ru" title="Напишите нам">alternativa50@land.ru</a></div>
+					<div class="top-contact-info-text top-text-right mt-top-min-10"><a href="mailto:alternativa50@mail.ru" title="Напишите нам">alternativa50@mail.ru</a></div>
 				</div>
 			</div>
 			<div class="clearfix"></div>
@@ -163,8 +163,7 @@
 					<div class="brand-image icon_1"></div>
 				</div>
 				<div class="col-md-9 our-grid-right">
-					<h3>10 лет опыта</h3>
-					<!-- <p>aliquam ipsum ante morbi sed ipsum mollis. Sollicitudin viverra, vel varius eget sit mollis.</p> -->
+					<h3>13 лет опыта</h3>
 				</div>
 				<div class="clearfix"></div>
 			</div>
